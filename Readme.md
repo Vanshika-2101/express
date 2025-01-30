@@ -4,8 +4,6 @@
 
 **This project has a [Code of Conduct][].**
 
-## Vanshika Aggarwal
-
 ## Table of contents
 
 * [Installation](#Installation)
